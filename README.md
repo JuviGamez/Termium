@@ -9,6 +9,14 @@
 This project is very much in beta, you can barely interact with the any webpages
 
 
+## Keybinds
+
+- Ctrl+L: Focus URL bar
+- Up/Down: Scroll Content
+- i: Enter interaction mode
+- q or Ctrl+C: Quit
+
+
 ## Features
 
 - Terminal-Friendly : Compatible with most terminal emulators.
