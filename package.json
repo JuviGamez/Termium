@@ -1,0 +1,19 @@
+{
+  "name": "termium",
+  "version": "1.0.0",
+  "description": "A terminal-based web browser using Chromium",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["browser", "terminal", "chromium", "cli"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "puppeteer": "^21.0.0",
+    "chalk": "^4.1.2",
+    "terminal-link": "^2.1.1"
+  }
+} 
