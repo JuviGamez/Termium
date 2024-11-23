@@ -25,7 +25,7 @@ This is really for people who love the terminal, and don't want to get out of th
 Run Termium with npm
 
 ```bash
-  git clone github.com/JuviGamez/Termium.git
+  git clone https://github.com/JuviGamez/Termium.git
   cd Termium
 ```
 
