@@ -6,7 +6,7 @@
 
 ## Appendix
 
-This project is very much in beta, you can barely interact with the any webpages
+This project is very much in beta, you can barely interact with any webpages, also this is text based, prob gonna make a another project that uses ASCII text to render or use [libsixel](https://github.com/saitoha/libsixel)
 
 
 ## Keybinds
