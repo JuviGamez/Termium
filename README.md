@@ -21,7 +21,7 @@ This project is very much in beta, you can barely interact with any webpages, al
 
 - Terminal-Friendly : Compatible with most terminal emulators.
 - Open Source: Built with the community in mind for extensibility and collaboration.
-- Cross Compatible: Compatible with Windows 7, 8, 10 and 11, MacOS, and Linux (any distro compatible with npm)
+- Cross Compatible: Compatible with Windows 7, 8, 10 and 11, macOS, and Linux (any distro compatible with npm)
 
 ## Who is this for?
 
